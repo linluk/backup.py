@@ -80,6 +80,7 @@ SOURCES = list(
         '~/.bashrc',
         '~/.tmux.conf',
         '~/.profile',
+        '~/.repos',
         '~/RANDOM.md',
         '~/lukas-singer.eu/'
     )))
