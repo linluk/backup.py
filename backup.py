@@ -65,6 +65,7 @@ SOURCES = list(
         '~/Documents/Code/',
         '~/Documents/Books/',
         '~/Documents/Musik/',
+        '~/Pictures/DesktopBackgrounds/',
         '~/Documents/Studium/',
         '~/Documents/Theater/',
         '~/Documents/cubox.md',
